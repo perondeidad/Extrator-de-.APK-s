@@ -1,5 +1,5 @@
-apk.h - C/C++ structure definitions for "*.apk"
-apk.py - Python3.6+ script for extracting files from "*.apk"
-*.apk.filelist.txt - List of files for each MeruBasu "*.apk"
+apk.h - Definiciones Estructurales en C/C++ de "*.apk"
+apk.py - escript en Python3.6+ para extraer los archivos de "*.apk"
+*.apk.filelist.txt - Lista de los archivos que contiene de cada MeruBasu "*.apk"
 
-Drag & Drop "*.apk" files onto "apk.py" to extract all files
+Agarra & Suelta los archivos "*.apk" dentro de "apk.py" para extraer todos los archivos
