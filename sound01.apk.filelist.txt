@@ -1,0 +1,16 @@
+sound/ui/AX_UITimer_Count.wav
+sound/ui/Ax_Game_Ending.wav
+sound/ui/Ax_buttonOver.wav
+sound/ui/Ax_buttonclick.wav
+sound/ui/Ax_buttonclickrelease.wav
+sound/ui/Ax_gamestartup1.wav
+sound/ui/BGM/Ax_Combat_Base_BGM.wav
+sound/ui/BGM/Ax_Combat_Boss_BGM.wav
+sound/ui/BGM/Ax_MELEE_Mode_BGM.wav
+sound/ui/BGM/Ax_MELEE_Win_Close_BGM.wav
+sound/ui/BGM/Ax_TDM_Mode_BGM.wav
+sound/ui/BGM/Ax_TDM_Win_Close_BGM.wav
+sound/ui/HUD_Timer.wav
+sound/ui/hint.wav
+sound/ui/item_acquired.wav
+sound/ui/scored.wav
